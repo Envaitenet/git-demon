@@ -21,4 +21,5 @@ hello,world!
 hello,world!
 hello,world! master test test test
 hello,world! master test
+hello,world! hot-fix test test test
 hello,world! hot-fix test
